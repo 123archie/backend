@@ -2,7 +2,7 @@
   "name": "file-sharing-app-code",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "upload.js",
   "scripts": {
     "dev": "nodemon express_server.js",
     "serve": "node express_server.js"
