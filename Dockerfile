@@ -7,4 +7,4 @@ COPY . .
 EXPOSE 5500
 RUN chown -R node /usr/src/app
 USER node
-CMD ["node", "upload.js"]
+CMD ["node"]

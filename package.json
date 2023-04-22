@@ -2,7 +2,7 @@
   "name": "file-sharing-app-code",
   "version": "1.0.0",
   "description": "",
-  "main": "upload.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon express_server.js",
     "serve": "node express_server.js"
@@ -58,6 +58,7 @@
     "object-inspect": "^1.12.2",
     "on-finished": "^2.4.1",
     "parseurl": "^1.3.3",
+    "path": "^0.12.7",
     "path-to-regexp": "^0.1.7",
     "proxy-addr": "^2.0.7",
     "qs": "^6.10.3",
